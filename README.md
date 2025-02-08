@@ -23,11 +23,11 @@ Developed a responsive website to support disaster victims with essential servic
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/disaster-management-website.git
+   git clone https://github.com/Amruthaluri-Gavin/Disaster-Management-Website-Project.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd disaster-management-website
+   cd Disaster-Management-Website-Project
    ```
 3. Set up a local server (e.g., XAMPP, WAMP, or LAMP) and configure the database.
 4. Import the provided SQL file into your database.
@@ -36,8 +36,5 @@ Developed a responsive website to support disaster victims with essential servic
 ## Contributing
 Contributions are welcome! If you'd like to improve this project, feel free to fork the repository and submit a pull request.
 
-## License
-This project is licensed under the MIT License.
-
 ## Contact
-For any inquiries, feel free to reach out via [your email or GitHub profile].
+For any inquiries, feel free to reach out via Amruthaluri-Gavin (int GITHUB) or amruthaluri.gavin05@gmail.com (gmail).
